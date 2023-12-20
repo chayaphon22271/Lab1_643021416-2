@@ -1,3 +1,4 @@
 Author: chayaphon srisongmueng
 “Create Startfile.txt with author’s name.”
 My presonal quote : สวสว สส ศาลาลอย 
+“Add personal quote to Startfile.txt”
